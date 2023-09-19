@@ -31,4 +31,5 @@ namespace UnitTest1
 			Assert::AreEqual(5.75f, d);
 		}
 	};
+
 }

@@ -17,4 +17,5 @@ int main()
     cout << "Введите третье число Z: ";
     cin >> c;
     cout << "Значение выражения: 5 + (2 * X - Z) / (3 + Y^2) = " << service->Chislo(a, b, c) << endl;
+
 }

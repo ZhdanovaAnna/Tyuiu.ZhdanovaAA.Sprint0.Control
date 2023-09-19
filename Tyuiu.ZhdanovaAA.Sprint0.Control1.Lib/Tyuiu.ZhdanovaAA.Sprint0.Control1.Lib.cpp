@@ -23,4 +23,5 @@ class Service2 :public ISprint0Task8V1
 	{
 		return 5 + (2 * a - c) / (3 + pow(b, 2));
 	}
+
 };

@@ -15,4 +15,5 @@ int main()
     cout << "Введите цифру: ";
     cin >> b;
     cout << "Цифра есть в введённом трёхзначном числе: " << boolalpha << service->Control(a, b) << endl;
+
 }
